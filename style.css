@@ -1,0 +1,28 @@
+.block1 {
+    background-color:#B9F3FC;
+    margin: 20px;
+    width: 900px; 
+    border-radius: 5px;
+    border: 1px solid black;
+    box-shadow: 3px 3px;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+}
+.block2{
+    background-color: lightpink;
+    margin: 20px;
+    width: 900px; 
+    border-radius: 5px;
+    border: 1px solid black;
+    box-shadow: 3px 3px;
+    height: 30rem;
+}
+
+
+
+.ovrflw{ 
+    max-height: 20rem;
+    overflow-y: auto;
+}
